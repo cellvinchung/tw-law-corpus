@@ -5,8 +5,8 @@
         "中華民國85年7月17日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -169,12 +169,27 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第一條": "　　本條未修正。",
+        "第二條": "　　一、核設施係指核反應器設施、核原料及核燃料生產設施與放射性廢料處理、貯存或最終處置設施。\n　　二、為積極推動全國輻射偵測業務，除現有之工作需繼續推動外，鑒於新增業務將相繼推展，重新規劃本中心職掌。\n　　三、為統籌全國環境輻射偵測業務之推展，增訂本中心掌理環境輻射偵測計畫之研擬及推動事項，列為修正第一款。\n　　四、為區別環境輻射中天然及人造輻射之來源，明確規定偵測項目，原第二款環境輻射之調查事項修正為環境中天然輻射之偵測事項，列為修正第二款。\n　　五、放射性落塵之偵測與國民輻射劑量之評估事項，由原第一款分列為修正第三款及第八款，並酌作文字修正。\n　　六、飲用水為民生所必需，增訂本中心掌理飲用水放射性含量之偵測事項與原第三款併列為修正第四款，並酌作文字修正。\n　　七、原第四款及第五款配合八十三年九月十六月送立法院審議之原子能法修正草案規定將「核能設施」修正為「核設施」，並酌作文字修正，列為修正第五款及第七款。\n　　八、明定本中心掌理放射性產品與廢料處理、貯存、運輸及最終處置等場所周圍環境輻射之監測事項，列為修正第六款。\n　　九、本中心除進行例行之輻射偵測業務外，必需加強環境輻射偵測技術之研究發展，研訂各項標準分析方法並推展國內相關機構之比較實驗，增訂本中心掌理環境輻射偵測技術之研究發展事項，列為修正第九款。\n　　十、增訂第十款，輻射偵測結果異常情形之立即發布事項，並應定期公布輻射偵測、監測及評估之相關結果。\n　　十一、原第六款酌作修正，以概括規定本中心之職掌事項，列為修正第十一款。",
+        "第三條": "　　照協商條文通過。",
+        "第四條": "　　原設總務組，修正單位名稱為秘書室。",
+        "第五條": "　　增置副主任一人，職務列簡任第十一職等，以襄助主任處理業務。",
+        "第六條": "　　照協商條文通過。",
+        "第七條": "　　一、調整職務列等。\n　　二、原列人事查核事項，改由行政院原子能委員會政風室兼辦，爰予刪除。",
+        "第八條": "　　調整職務列等。",
+        "第九條": "　　照協商條文通過。",
+        "第十條": "　　配合分類職位公務人員任用法廢止，改依公務人員任用法辦理職務歸系。",
+        "第十一條": "　　一、本條新增。\n　　二、因應業務發展需要。",
+        "第十二條": "　　條次變更及文字修正。",
+        "第十三條": "　　條次變更。"
+    },
     "law_history": [
         {
             "進度": "一讀",
             "會議日期": "841205",
             "立法紀錄": "84卷59期2816號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cfc7c8cd81c7cbcac6cfcfc4cfcfcfccc4cfcfcfcc",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfcdcec981c7cbcac6cfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
@@ -187,14 +202,14 @@
             "進度": "委員會審查",
             "會議日期": "850110",
             "立法紀錄": "85卷6期2828號下冊 163-179頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cfc7c8cd81c7cacfc9cfccc4cfcec9ccc4cfcec8c6",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfcdcec981c7cacfc9cfccc4cfcec9ccc4cfcec8c6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
             "會議日期": "850521",
             "立法紀錄": "85卷26期2848號 38-52頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cfc7c8cd81c7cacdc9cfcfc4cfcfccc7c4cfcfcacd",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfcdcec981c7cacdc9cfcfc4cfcfccc7c4cfcfcacd",
             "關係文書": [
                 [
                     "審查報告",
@@ -206,49 +221,49 @@
             "進度": "二讀(廣泛討論)",
             "會議日期": "850524",
             "立法紀錄": "85卷27期2849號 49-58頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cfc7c8cd81c7cacdc8cfcfc4cfcfcbc6c4cfcfcac7",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfcdcec981c7cacdc8cfcfc4cfcfcbc6c4cfcfcac7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
             "會議日期": "850524",
             "立法紀錄": "85卷27期2849號 58-64頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cfc7c8cd81c7cacdc8cfcfc4cfcfcac7c4cfcfc9cb",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfcdcec981c7cacdc8cfcfc4cfcfcac7c4cfcfc9cb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
             "會議日期": "850607",
             "立法紀錄": "85卷31期2853號 35-62頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cfc7c8cd81c7cacccecfcfc4cfcfcccac4cfcfc9cd",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfcdcec981c7cacccecfcfc4cfcfcccac4cfcfc9cd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
             "會議日期": "850611",
             "立法紀錄": "85卷32期2854號 40-48頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cfc7c8cd81c7cacccdcfcfc4cfcfcbcfc4cfcfcbc7",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfcdcec981c7cacccdcfcfc4cfcfcbcfc4cfcfcbc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
             "會議日期": "850618",
             "立法紀錄": "85卷34期2856號 23-24頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cfc7c8cd81c7cacccbcfcfc4cfcfcdccc4cfcfcdcb",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfcdcec981c7cacccbcfcfc4cfcfcdccc4cfcfcdcb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
             "會議日期": "850621",
             "立法紀錄": "85卷35期2857號 26-27頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cfc7c8cd81c7cacccacfcfc4cfcfcdc9c4cfcfcdc8",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfcdcec981c7cacccacfcfc4cfcfcdc9c4cfcfcdc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
             "會議日期": "850621",
             "立法紀錄": "85卷35期2857號 27-28頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cfc7c8cd81c7cacccacfcfc4cfcfcdc8c4cfcfcdc7",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfcdcec981c7cacccacfcfc4cfcfcdc8c4cfcfcdc7",
             "關係文書": []
         }
     ]
