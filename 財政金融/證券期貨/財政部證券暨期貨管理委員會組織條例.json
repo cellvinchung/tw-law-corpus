@@ -5,8 +5,8 @@
         "中華民國86年4月2日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -165,12 +165,28 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第一條": "　　配合國外期貨交易法修正本會設立之目的。",
+        "第二條": "　　配合國外期貨交易法，爰修正第一項條文。",
+        "第三條": "　　配合業務需要，增設二組一室。",
+        "第四條": "　　本條未修正。",
+        "第五條": "　　一、配合財政部金融司改制金融局，酌作修正。\n　　二、第二項增列後段文字。\n　　三、增列第三項有關「利益衝突迴避原則」及「不得任黨職」之規定。",
+        "第六條": "　　一、配合期貨交易管理業務改隸本會主管及增設組室需要，並衡酌未來業務發展，修正編制員額數。\n　　二、本會掌理事項，均以稽核、專員及薦任科員最為需要，故員額配置所佔比例較一般機關為高。\n　　三、將「專員」及「科員」員額編制酌予調整。",
+        "第七條": "　　本條未修正。",
+        "第八條": "　　本條未修正。",
+        "第九條": "　　一、本條新增。\n　　二、依政風機構人員設置條例第六條規定，增設政風室，所需員額就本條例所定員額派充之。",
+        "第十條": "　　一、條次變更。\n　　二、配合第九條之增列酌作修正，並依一般體例刪除「均應依公務人員任用法取得任用資格」。",
+        "第十一條": "　　一、條次變更。\n　　二、並增列得聘用對期貨有專門研究之顧問或研究員。",
+        "第十二條": "　　條次變更。",
+        "第十三條": "　　條次變更。",
+        "第十四條": "　　條次變更。"
+    },
     "law_history": [
         {
             "進度": "一讀",
             "會議日期": "830118",
             "立法紀錄": "83卷7期2681號上冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cecfc7cf81c7cccfc8cfcec4cfcfcfcbc4cfcfcfcb",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfccc7cf81c7cccfc8cfcec4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
@@ -183,7 +199,7 @@
             "進度": "一讀",
             "會議日期": "830916",
             "立法紀錄": "83卷58期2732號 79-92頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cecfc7cf81c7cccac7cfcfc4cfcfc8c6c4cfcfc6cd",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfccc7cf81c7cccac7cfcfc4cfcfc8c6c4cfcfc6cd",
             "主提案": "沈富雄",
             "關係文書": [
                 [
@@ -196,7 +212,7 @@
             "進度": "一讀",
             "會議日期": "840627",
             "立法紀錄": "84卷41期2798號 3-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cecfc7cf81c7cbcbcecfcfc4cfcfcfccc4cfcfcfcb",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfccc7cf81c7cbcbcecfcfc4cfcfcfccc4cfcfcfcb",
             "主提案": "沈富雄",
             "關係文書": [
                 [
@@ -209,35 +225,35 @@
             "進度": "委員會審查",
             "會議日期": "830713",
             "立法紀錄": "83卷53期2727號 156-174頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cecfc7cf81c7cccacccfcfc4cfcecac9c4cfcec8cb",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfccc7cf81c7cccacccfcfc4cfcecac9c4cfcec8cb",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
             "會議日期": "840615",
             "立法紀錄": "84卷40期2797號下冊 181-197頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cecfc7cf81c7cbcbcfcfccc4cfcec7cec4cfcec6c8",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfccc7cf81c7cbcbcfcfccc4cfcec7cec4cfcec6c8",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
             "會議日期": "841211",
             "立法紀錄": "84卷62期2819號 339-365頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cecfc7cf81c7cbc9cdcfcfc4cfccccc6c4cfccc9ca",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfccc7cf81c7cbc9cdcfcfc4cfccccc6c4cfccc9ca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
             "會議日期": "850103",
             "立法紀錄": "85卷4期2826號 365-376頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cecfc7cf81c7cacfcbcfcfc4cfccc9cac4cfccc8c9",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfccc7cf81c7cacfcbcfcfc4cfccc9cac4cfccc8c9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
             "會議日期": "860307",
             "立法紀錄": "86卷6期2898號上冊 41-71頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cecfc7cf81c7c9cfc9cfcec4cfcfcbcec4cfcfc8ce",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfccc7cf81c7c9cfc9cfcec4cfcfcbcec4cfcfc8ce",
             "關係文書": [
                 [
                     "審查報告",
@@ -249,28 +265,28 @@
             "進度": "二讀(逐條討論)",
             "會議日期": "860307",
             "立法紀錄": "86卷6期2898號上冊 71-78頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cecfc7cf81c7c9cfc9cfcec4cfcfc8cec4cfcfc8c7",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfccc7cf81c7c9cfc9cfcec4cfcfc8cec4cfcfc8c7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
             "會議日期": "860311",
             "立法紀錄": "86卷7期2899號上冊 32-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cecfc7cf81c7c9cfc8cfcec4cfcfcccdc4cfcfcccb",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfccc7cf81c7c9cfc8cfcec4cfcfcccdc4cfcfcccb",
             "關係文書": []
         },
         {
             "進度": "三讀",
             "會議日期": "860311",
             "立法紀錄": "86卷6期2898號上冊 78-79頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cecfc7cf81c7c9cfc9cfcec4cfcfc8c7c4cfcfc8c6",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfccc7cf81c7c9cfc9cfcec4cfcfc8c7c4cfcfc8c6",
             "關係文書": []
         },
         {
             "進度": "三讀",
             "會議日期": "860311",
             "立法紀錄": "86卷7期2899號上冊 34-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfccc7c6cecfc7cf81c7c9cfc8cfcec4cfcfcccbc4cfcfcccb",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacfc6cdcfcfccc7cf81c7c9cfc8cfcec4cfcfcccbc4cfcfcccb",
             "關係文書": []
         }
     ]
